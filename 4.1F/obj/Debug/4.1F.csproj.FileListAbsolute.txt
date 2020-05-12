@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\4.1F\4.1F\bin\Debug\4.1F.exe.config
+C:\Users\Aleks\source\repos\4.1F\4.1F\bin\Debug\4.1F.exe
+C:\Users\Aleks\source\repos\4.1F\4.1F\bin\Debug\4.1F.pdb
+C:\Users\Aleks\source\repos\4.1F\4.1F\obj\Debug\4.1F.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\4.1F\4.1F\obj\Debug\_4._1F.Form1.resources
+C:\Users\Aleks\source\repos\4.1F\4.1F\obj\Debug\_4._1F.Properties.Resources.resources
+C:\Users\Aleks\source\repos\4.1F\4.1F\obj\Debug\4.1F.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\4.1F\4.1F\obj\Debug\4.1F.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\4.1F\4.1F\obj\Debug\4.1F.exe
+C:\Users\Aleks\source\repos\4.1F\4.1F\obj\Debug\4.1F.pdb
